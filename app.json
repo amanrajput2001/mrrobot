@@ -14,7 +14,7 @@
         "mrrobot userbot",
         "mrrobot telegram userbot"
     ],
-    "repository": "https://github.com/AKHACKER-program4hack/mrrobot",
+    "repository": "https://github.com/amanrajput2001/mrrobot",
     "stack": "container",
     "env": {
         "ENV": {
